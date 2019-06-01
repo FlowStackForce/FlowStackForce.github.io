@@ -1,0 +1,29 @@
+.boxmodel{
+	border: 5px solid red;
+	display: inline-block;
+	padding: 5px 20px 5px 20px;
+	margin: 20px;
+}
+.container{
+
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+h1 {
+
+	font-family: fantasy;
+	font-style: 3em;
+	border-bottom: 2px solid pink;
+	border-right: 2px solid pink;
+	width: 400px;
+	text-align: center;
+}
+
+img
+{
+width: 450px;
+height: 300px;
+margin: 10px;
+}

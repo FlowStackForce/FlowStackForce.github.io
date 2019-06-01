@@ -1,0 +1,43 @@
+/* Selector {
+Property: value;
+
+ }*/
+
+body
+
+{
+
+background-image: url(backgroudimage.home.jpg);
+background-size: cover;
+
+}
+
+
+
+h1 {
+	color: red;
+	background: black;
+	text-align: center;
+	border: 5px solid rgba(255, 0, 0, 0.5);
+	cursor: pointer;
+}
+
+h6 {
+	text-transform: uppercase;
+	line-height: 50px;
+	font-size: 80%;
+	font-family: "time new roman"
+	color: blue;
+}
+
+footer {
+
+	clear: both;
+	text-align: center;
+}
+li{
+
+	list-style: none;
+	display: inline-block;
+}
+#A4139
